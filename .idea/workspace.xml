@@ -4,7 +4,6 @@
     <list default="true" id="44005475-1efe-45bf-a6d0-89d32307431b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templets/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travello/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/travello/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travello/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/travello/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
