@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="44005475-1efe-45bf-a6d0-89d32307431b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myweb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myweb/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myweb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myweb/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travello/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/travello/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travello/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/travello/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travello/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/travello/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templets" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
